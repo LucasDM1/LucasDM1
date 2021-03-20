@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there :japanese_goblin:
+
+I'm an electrical engineer student and I'm currently learning full stack web development. ⚡
+
+I'm always looking to innovate and learn new things.🌱
+
+
 
 <!--
 **LucasDM1/LucasDM1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
