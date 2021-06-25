@@ -1,6 +1,6 @@
 ### Hello there :japanese_goblin:
 
-I'm an electrical engineer student and I'm currently learning full stack web development. ⚡
+I'm an electrical engineer student and I'm a Full Stack Web developer. ⚡
 
 I'm always looking to innovate and learn new things.🌱
 
